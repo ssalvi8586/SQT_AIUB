@@ -1,2 +1,2 @@
 SOFTWARE QUALITY AND TESTING Course project  
-Selenium
+Automated testing using Selenium
