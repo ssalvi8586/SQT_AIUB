@@ -1,1 +1,2 @@
-# SQT_AIUB
+SOFTWARE QUALITY AND TESTING Course project
+Selenium
