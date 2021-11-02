@@ -1,2 +1,2 @@
-SOFTWARE QUALITY AND TESTING Course project
+SOFTWARE QUALITY AND TESTING Course project  
 Selenium
